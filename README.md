@@ -14,9 +14,9 @@
 ・「いいね!」機能(Ajaxを用いた)←主要機能  
 
 # 開発環境
-PHP7
-MAMP
-MySQL
+PHP7  
+MAMP  
+MySQL  
 
 #データベース
 データベース名：chi_no_kyoyusoko_db
