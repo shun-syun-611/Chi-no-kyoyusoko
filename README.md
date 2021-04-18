@@ -18,5 +18,6 @@ PHP7
 MAMP  
 MySQL  
 
-#データベース
-データベース名：chi_no_kyoyusoko_db
+# データベース
+データベース名:  
+chi_no_kyoyusoko_db
