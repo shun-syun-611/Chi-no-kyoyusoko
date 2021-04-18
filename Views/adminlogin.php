@@ -17,6 +17,7 @@ try{
     $User->connectDb();
 }
 
+
 //if($_POST){
 	//echo "ポスト送信はできてる！";
 	//if($User->login($_POST)){
